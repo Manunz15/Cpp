@@ -1,5 +1,12 @@
 # C
-Programmi in C e in C++
+C and C++ codes
 
-Giochi old gen programmati in C e in C++: Super Mario (1-1), Pong, Snake e Space Invaders.
-Più il Conway's Game of Life sempre programmato in C.
+Old gen games in C and C++: Super Mario, Pong, Snake and Space Invaders.
+Also the Conway's game of life.
+
+For the old gen games you need the "conio.h" library. 
+Controls are:
+-Super Mario "A" Left "D" Right "Space" Jump
+-Pong "WS" Player 1 "OL" Player 2
+-Snake "WASD"
+-Space Invaders "A" Left "D" Right "Space" Shoot
