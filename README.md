@@ -1,4 +1,4 @@
-#C++ codes
+C++ codes
 
 Old gen games in C++: Super Mario, Pong, Snake and Space Invaders.
 Also the Conway's game of life in C++.
